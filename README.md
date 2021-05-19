@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&theme=react)](https://github.com/andre-vg/caixa_registradora_ceub)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-vg&repo=andre-vg&show_owner&theme=react)](https://github.com/andre-vg/andre-vg)
+
 <!--
 **andre-vg/andre-vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

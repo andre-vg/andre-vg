@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&theme=react)](https://github.com/andre-vg/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&theme=react)]
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-vg&repo=andre-vg&show_owner&theme=react)](https://github.com/andre-vg/andre-vg)
 

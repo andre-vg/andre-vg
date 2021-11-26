@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&theme=react)]
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-vg&repo=andre-vg&show_owner&theme=react)](https://github.com/andre-vg/andre-vg)
+
+<div align="center" style="inline_block">
+  <a href="https://github.com/felipecal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
 <!--
 **andre-vg/andre-vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

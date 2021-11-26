@@ -1,10 +1,11 @@
-### Hi there 👋
+### Sup guys ✌
 
+#### Some useless nice shit down there 👇
 
 <div align="center" style="inline_block">
-  <a href="https://github.com/felipecal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&layout=compact&langs_count=7&theme=nightowl"/>
+  <a href="https://github.com/andre-vg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <!--

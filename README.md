@@ -2,7 +2,7 @@
 
 #### Some useless nice shit down there 👇
 
-<a href="https://github.com/andre-vg/NetbeansCurriculo"><p align="center">Curriculo (Resume)</p></a>
+<a href="https://andre-vg.github.io/Curriculo-Web/"><p align="center">Curriculo (Resume)</p></a>
 
 <div align="center" style="inline_block">
   <a href="https://github.com/andre-vg">

@@ -2,6 +2,8 @@
 
 #### Some useless nice shit down there 👇
 
+![](https://komarev.com/ghpvc/?username=andre-vg)
+
 <a href="https://andre-vg.github.io/Curriculo-Web/"><p align="center">Curriculo (Resume)</p></a>
 
 <div align="center" style="inline_block">
@@ -9,18 +11,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-vg&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-vg&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
-
-<!--
-**andre-vg/andre-vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=andre-vg)
 
-<a href="https://andre-vg.github.io/Curriculo-Web/"><p align="center">Curriculo (Resume)</p></a>
+<a href="https://andrevg2.vercel.app/"><p align="left">Curriculo (Resume)</p></a>
 
 <div align="center" style="inline_block">
   <a href="https://github.com/andre-vg">

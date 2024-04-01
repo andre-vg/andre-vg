@@ -1,6 +1,6 @@
 ### Sup guys ✌
 
-#### My name is André and i'm a Junior FullStack dev, looking for jobs
+#### My name is André and i'm a FullStack web dev, looking for jobs
 
 ![](https://komarev.com/ghpvc/?username=andre-vg)
 
